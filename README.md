@@ -21,4 +21,4 @@ This project analyzes social media engagement, sentiment distribution, and hasht
 - Predicting future social media trends with machine learning  
 
 ---
-**Contributors:** Jahnavi Lalitha Srivani  
+**Contributors:** Y Sanjay Arjun  
